@@ -1,2 +1,4 @@
 # XtremeEnt.github.io
-Github pages site
+Go to https://XtremeEnt.github.io
+or https://tinyurl.com/xtremeent
+or https://tinyurl.com/XtremeEntertainment
